@@ -52,5 +52,5 @@ Train a Convolutional Neural Network (CNN) for image classification. Two archite
 
 Evaluate the models using metrics such as accuracy, precision, recall, and F1-score. Confusion matrices and ROC curves are also plotted for further analysis.
 
-##Comparison 
+### Comparison 
 We compared the performance of unsupervised learning (KMeans and GMM) with supervised learning (CNN) and discussed their strengths and weaknesses.
