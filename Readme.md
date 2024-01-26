@@ -1,4 +1,4 @@
-# <div align="center"> Pneumonia Detection <br/> <br/> <img src="./Figures/Pnumonia_icon.jpeg" width="50"> </div>
+# <div align="center"> Pneumonia Detection <br/> <br/> <img src="./Figures/Pnumonia_icon.jpeg" width="150"> </div>
 
 # Chest X-Ray Image Classification
 
